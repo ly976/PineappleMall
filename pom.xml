@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.luying.pineapple</groupId>
+    <artifactId>pineapple</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>pineapple</name>
+    <description>pineapple</description>
+
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>pineapple-ware</module>
+        <module>pineapple-couple</module>
+        <module>pineapple-member</module>
+        <module>pineapple-order</module>
+        <module>pineapple-product</module>
+    </modules>
+</project>
